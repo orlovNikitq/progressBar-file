@@ -1,0 +1,10 @@
+C:\Users\zunderz\Documents\projc#\D3\D3\bin\Debug\D3.exe.config
+C:\Users\zunderz\Documents\projc#\D3\D3\bin\Debug\D3.exe
+C:\Users\zunderz\Documents\projc#\D3\D3\bin\Debug\D3.pdb
+C:\Users\zunderz\Documents\projc#\D3\D3\obj\Debug\D3.csproj.AssemblyReference.cache
+C:\Users\zunderz\Documents\projc#\D3\D3\obj\Debug\D3.Form1.resources
+C:\Users\zunderz\Documents\projc#\D3\D3\obj\Debug\D3.Properties.Resources.resources
+C:\Users\zunderz\Documents\projc#\D3\D3\obj\Debug\D3.csproj.GenerateResource.cache
+C:\Users\zunderz\Documents\projc#\D3\D3\obj\Debug\D3.csproj.CoreCompileInputs.cache
+C:\Users\zunderz\Documents\projc#\D3\D3\obj\Debug\D3.exe
+C:\Users\zunderz\Documents\projc#\D3\D3\obj\Debug\D3.pdb
